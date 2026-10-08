@@ -30,7 +30,7 @@ A miniature SIEM/SOC platform for security detection and response.
 * Handles 3,603 events/sec end to end with p95 detection latency of 0.42 ms and zero loss across 20,000 events
 * At least once Kafka delivery with a dead letter queue, deduplication, tenant isolation, JWT/RBAC, and approval gated response playbooks
 
-### 🔄 [Relay](https://github.com/r7bb/Relay)
+### 🔄 [Robis](https://github.com/r7bb/Robis)
 **TypeScript · Next.js · Bun · Fastify · PostgreSQL · WebSockets · Yjs**
 
 A collaborative workspace for issues, docs, chat, and meetings that keeps working when the network does not.
